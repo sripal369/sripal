@@ -1,2 +1,4 @@
 #!/bin/bash
-#sripal sama 
+#sripal sama
+#sama reddy
+#ditya reddy
